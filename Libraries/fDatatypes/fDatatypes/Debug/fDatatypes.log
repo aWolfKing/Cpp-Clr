@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  Stdafx.cpp
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  AssemblyInfo.cpp
+  fDatatypes.cpp
+c:\users\daanv\documents\development\clr\libraries\fdatatypes\fdatatypes\NamedDataContainer.h(758): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  Generating Code...
+  fDatatypes.vcxproj -> C:\Users\daanv\Documents\Development\CLR\Libraries\fDatatypes\Debug\fDatatypes.dll
